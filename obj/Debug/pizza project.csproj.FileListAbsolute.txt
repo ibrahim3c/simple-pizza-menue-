@@ -1,0 +1,10 @@
+D:\programming\C#\C#level1\pizza project\pizza project\bin\Debug\pizza project.exe.config
+D:\programming\C#\C#level1\pizza project\pizza project\bin\Debug\pizza project.exe
+D:\programming\C#\C#level1\pizza project\pizza project\bin\Debug\pizza project.pdb
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza project.csproj.AssemblyReference.cache
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza_project.mainForm.resources
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza_project.Properties.Resources.resources
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza project.csproj.GenerateResource.cache
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza project.csproj.CoreCompileInputs.cache
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza project.exe
+D:\programming\C#\C#level1\pizza project\pizza project\obj\Debug\pizza project.pdb
